@@ -1,0 +1,10 @@
+C:\Users\ERIK\source\repos\Exercise2PABD\Exercise2PABD\bin\Debug\Exercise2PABD.exe.config
+C:\Users\ERIK\source\repos\Exercise2PABD\Exercise2PABD\bin\Debug\Exercise2PABD.exe
+C:\Users\ERIK\source\repos\Exercise2PABD\Exercise2PABD\bin\Debug\Exercise2PABD.pdb
+C:\Users\ERIK\source\repos\Exercise2PABD\Exercise2PABD\obj\Debug\Exercise2PABD.csprojAssemblyReference.cache
+C:\Users\ERIK\source\repos\Exercise2PABD\Exercise2PABD\obj\Debug\Exercise2PABD.Form1.resources
+C:\Users\ERIK\source\repos\Exercise2PABD\Exercise2PABD\obj\Debug\Exercise2PABD.Properties.Resources.resources
+C:\Users\ERIK\source\repos\Exercise2PABD\Exercise2PABD\obj\Debug\Exercise2PABD.csproj.GenerateResource.cache
+C:\Users\ERIK\source\repos\Exercise2PABD\Exercise2PABD\obj\Debug\Exercise2PABD.csproj.CoreCompileInputs.cache
+C:\Users\ERIK\source\repos\Exercise2PABD\Exercise2PABD\obj\Debug\Exercise2PABD.exe
+C:\Users\ERIK\source\repos\Exercise2PABD\Exercise2PABD\obj\Debug\Exercise2PABD.pdb
